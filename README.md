@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I am Ankitha
+"Aspiring software developer and MCA candidate with a drive for continuous improvement and innovation in programming."
 <!--
 **ankithahv31/ankithahv31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
