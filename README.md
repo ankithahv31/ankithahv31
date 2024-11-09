@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/ankithahv31/ankithahv31/blob/main/dream%20believe%20achieve%20(1).png" alt="logo" style="width:100%; height:auto;">
+</p>
+
 <h1 align="center">Hi 👋, I'm Ankitha</h1>
 <h3 align="center">"MCA Student | Passionate about Web Development | Eager to Learn & Innovate" from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306545.jpg?semt=ais_hybrid">
