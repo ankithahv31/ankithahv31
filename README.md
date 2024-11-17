@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Research project**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **UI/UX**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankithahv31](https://github.com/ankithahv31)
 
