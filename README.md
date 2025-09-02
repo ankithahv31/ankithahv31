@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ankitha</h1>
-<h3 align="center">"MCA Student |Eager to Learn & Innovate" from India</h3>
+<h3 align="center">"MCA Graduate |Eager to Learn & Innovate" from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306545.jpg?semt=ais_hybrid">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankithahv31&label=Profile%20views&color=0e75b6&style=flat" alt="ankithahv31" /> </p>
