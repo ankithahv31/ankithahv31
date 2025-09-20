@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Research project**
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning **Java Full Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankithahv31](https://github.com/ankithahv31)
 
-- 💬 Ask me about **Python,c++,HTML,CSS,MySql**
+- 💬 Ask me about **,Java,Python,c++,HTML,CSS,MySql,ReactJS**
 
 - 📫 How to reach me **ankithahv31@gmail.com**
 
