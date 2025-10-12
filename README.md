@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankithahv31](https://github.com/ankithahv31)
 
-- 💬 Ask me about **,Java,Python,c++,HTML,CSS,MySql,ReactJS,Javascript**
+- 💬 Ask me about **Java,Python,c++,HTML,CSS,MySql,ReactJS,Javascript**
 
 - 📫 How to reach me **ankithahv31@gmail.com**
 
